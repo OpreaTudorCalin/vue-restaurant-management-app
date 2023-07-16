@@ -27,7 +27,7 @@ This is a simple restaurant management application built with Vue.js. The applic
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/OpreaTudorCalin/restaurant-management-app.git
+   git clone https://github.com/OpreaTudorCalin/vue-restaurant-management-app.git
    ```
 
 2. Navigate to the project directory:
