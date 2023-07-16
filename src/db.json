@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "anil",
+      "email": "anil@test",
+      "password": "anil@123"
+    },
+    {
+      "id": 2,
+      "name": "peter",
+      "email": "peter@test",
+      "password": "peter@123"
+    },
+    {
+      "name": "Tudor Oprea",
+      "email": "tudoroprea24@yahoo.ro",
+      "password": "tudorikisretro",
+      "id": 3
+    },
+    {
+      "name": "Razvan Tiron",
+      "email": "razvan@test",
+      "password": "123123",
+      "id": 4
+    },
+    {
+      "name": "Cosmin Tiron",
+      "email": "cosmintiron@yahoo.ro",
+      "password": "14051999",
+      "id": 5
+    },
+    {
+      "name": "Bianca Oprea",
+      "email": "biancaoprea@gmail.com",
+      "password": "15081996",
+      "id": 6
+    },
+    {
+      "name": "d",
+      "email": "d",
+      "password": "d",
+      "id": 7
+    },
+    {
+      "name": "dsa",
+      "email": "dasd",
+      "password": "ad",
+      "id": 8
+    },
+    {
+      "name": "mno",
+      "email": "aiaie",
+      "password": "2112",
+      "id": 9
+    },
+    {
+      "name": "jimmy",
+      "email": "124124",
+      "password": "21412",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 11
+    },
+    {
+      "name": "sa zicem",
+      "email": "dsaf",
+      "password": "sfaf",
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 14
+    },
+    {
+      "name": "david",
+      "email": "david@yahoo.ro",
+      "password": "123123",
+      "id": 15
+    },
+    {
+      "name": "acxz",
+      "email": "zxvzzzvx",
+      "password": "zxvv",
+      "id": 16
+    },
+    {
+      "name": "New User",
+      "email": "newuser@yahoo.ro",
+      "password": "1234newuser",
+      "id": 17
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Burger King",
+      "contact": 11111,
+      "address": "Noida sector 50",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "KFC",
+      "contact": 33333,
+      "address": "Delgi CP"
+    },
+    {
+      "name": "Kaufland",
+      "contact": "0775",
+      "address": "Camil Petrescu",
+      "id": 4
+    },
+    {
+      "name": "Lidl",
+      "contact": "0776",
+      "address": "Camil Petrescu",
+      "id": 5
+    }
+  ]
+}
